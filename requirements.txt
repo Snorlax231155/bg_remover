@@ -3,3 +3,4 @@ opencv-python
 numpy
 requests
 boto3
+cv2
